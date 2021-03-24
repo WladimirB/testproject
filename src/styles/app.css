@@ -1,0 +1,12 @@
+.wrapper{
+  height:650px;
+  overflow-y: auto;
+}
+
+.Content{
+  flex: 1 0 auto!important;
+}
+
+.buttonBar{
+  flex-shrink: 0!important;
+}
